@@ -3,8 +3,9 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public void printLine(String s) {
+    public void printLine(String s, String s2) {
         System.out.println(s);
+        System.out.println(s2);
     }
 
     public int add(int a, int b) {
